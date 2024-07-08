@@ -31,6 +31,5 @@ JavaScript is mainly used, adding React. With this combination this Project was 
 
 Here you will have a preview of the project. The project is completely in English.
 
-![Image Preview](image.png)
-![Image Preview](image-1.png)
-![Image Preview](image-2.png)
+![Image Preview](https://imgur.com/socYoDq)
+![Image Preview](https://imgur.com/WpvvzZ7)
