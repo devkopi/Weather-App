@@ -32,5 +32,5 @@ JavaScript is mainly used, adding React. With this combination this Project was 
 Here you will have a preview of the project. The project is completely in English.
 
 ![image-1](https://github.com/devkopi/Weather-App/assets/134861034/619f5e5d-3491-4307-b70c-da58beb9a936)
-![Ima![image](https://github.com/devkopi/Weather-App/assets/134861034/86c3ba4e-5e25-4867-ad0c-65f053dbe153)
+![image](https://github.com/devkopi/Weather-App/assets/134861034/86c3ba4e-5e25-4867-ad0c-65f053dbe153)
 
